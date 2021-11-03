@@ -44,6 +44,10 @@ Baixe o [dataset de exemplo](./data/dataset_test.csv) e siga o passo a passo do 
 
 A Suggeri é uma startup criada como parte do Projeto da Turma 2 da Mentoria do Programa DataScienceAcademy.
 
+O projeto ganhou o `3º lugar` no programa de mentoria.
+
+![3rd lugar no programa de mentoria](./images/dsa_mentoria_3rd.jpeg)
+
 O [Sumário Executivo](./desenvolvimento/sumario_executivo.md) do projeto contém um resumo do projeto, as ferramentas utilizadas, lições aprendidadas e links importantes.
 
 Mais detalhes do programa no [Regulamento](https://blog.dsacademy.com.br/programa-de-mentoria-entre-os-alunos-dsa-temporada-2021/).
