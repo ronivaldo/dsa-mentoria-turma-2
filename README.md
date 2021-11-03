@@ -1,3 +1,7 @@
+# 3º melhor projeto!
+
+O projeto ganhou o `3º lugar` no programa de Mentoria 2021 da DataScienceAcademy.
+
 # Suggeri
 
 Suggeri é um sistema de recomendação como serviço usando inteligência artificial.
